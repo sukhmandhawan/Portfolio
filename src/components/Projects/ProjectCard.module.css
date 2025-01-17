@@ -1,0 +1,91 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 50px;
+  background: linear-gradient(180deg, #2c2e34 0%, #2a2e34 100%);
+  padding: 20px;
+  max-width: 500px;
+  height: 370px;
+  box-sizing: border-box;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover transition */
+}
+
+.container:hover {
+  transform: translateY(-10px); /* Lifts the card up by 10px */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Adds shadow for depth */
+}
+
+.container:active {
+  transform: translateY(-5px); /* Slightly reduced lift when clicked */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+
+.image {
+  margin-bottom: 20px;
+  width: 100%;
+  height: 200px; /* Ensures image height consistency */
+  object-fit: cover; /* Keeps the image proportionate */
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px; /* Spacing consistency */
+  text-align: center; /* Align heading to the center */
+}
+
+.description {
+  margin: 10px 0;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center; 
+  flex-grow: 1; /* Ensures the description area adapts for consistent alignment */
+}
+
+.skills {
+  width: 100%;
+  margin-top: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; /* Align skills to the center */
+  gap: 10px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 18px; /* Slightly smaller than the link text */
+  font-weight: 400;
+  border-radius: 8px; /* Softer rounding than links */
+  background: var(--color-light); /* Use a lighter color for contrast */
+  padding: 5px 15px; /* Smaller padding than links */
+  color: var(--color-dark); 
+  box-shadow: none; /* No shadow to keep it flat */
+  text-align: center;
+  font-style: italic;
+}
+.links {
+  width: 100%;
+  margin-top: auto; 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+  background: var(--color-bg);
+  padding: 10px 20px;
+  margin-top: 20px; 
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+

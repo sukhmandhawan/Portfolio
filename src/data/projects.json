@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Blogify",
+    
+    "description": "A blog platform where users can sign up, post articles, and comment on them. Built using Ruby on Rails.",
+    "skills": ["Ruby on Rails", "PostgreSQL", "Tailwind CSS"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Blogify"
+  },
+  {
+    "title": "LightWeight Fine-Tuning",
+    
+    "description": "Implementation of parameter-efficient fine-tuning using Hugging Face PEFT, reducing computational costs while improving model performance for text generation tasks.",
+    "skills": ["Python", "PyTorch", "Hugging Face Transformers"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/LightWeightFineTUning"
+  },
+  {
+    "title": "Dog Breed Identifier",
+    
+    "description": "A Python application that classifies dog breeds using image recognition techniques.",
+    "skills": ["Python", "Machine Learning", "Image Processing"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Dog-Breed-Identifier"
+  },
+  {
+    "title": "Note App",
+    
+    "description": "A simple note-taking application built with React and Node.js.",
+    "skills": ["React", "Node.js", "Express"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Note-App"
+  },
+  {
+    "title": "Chatbot",
+   
+    "description": "A dynamic university chat application enabling real-time messaging, media sharing, and group chat features.",
+    "skills": ["JavaScript", "HTML5", "CSS3", "SQLite", "Docker"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Chatbot"
+  },
+  {
+    "title": "Grocery Management System",
+   
+    "description": "A platform that manages inventory, purchasing, and consumption tracking to ensure users have the right items in the right quantities.",
+    "skills": ["Python", "Django", "SQLite"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Grocery-Management-System"
+  },
+  {
+    "title": "Myriad",
+    "description": "A comprehensive project management tool designed to streamline workflows and enhance team collaboration.",
+    "skills": ["React", "Redux", "Node.js", "MongoDB"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Myriad-Studios-E-commerce-website"
+  },
+  {
+    "title": "Gym Management System",
+    "description": "An application to manage gym memberships, track attendance, and handle billing processes efficiently.",
+    "skills": ["Java", "Spring Boot", "MySQL"],
+    "demo": null,
+    "source": "https://github.com/sukhmandhawan/Gym-Management-System"
+  }
+]

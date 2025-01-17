@@ -1,0 +1,41 @@
+[
+  {
+    "role": "Teaching Assistant",
+    "organisation": "University of Saskatchewan",
+    "imageSrc": "path/to/university-logo.png",
+    "startDate": "September 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Assisted professors in managing course content and grading over 100 assignments and 10+ exams with detailed feedback.",
+      "Led tutorial sessions and group discussions for 60+ students, boosting comprehension of complex concepts by 20%.",
+      "Facilitated lab activities and provided one-on-one guidance, helping 90% of students improve performance and clarify objectives.",
+      "Organized workshops to bridge theoretical and practical applications of computer science concepts."
+    ]
+  },
+  {
+    "role": "Tutor/Mentor",
+    "organisation": "Tutor Bright",
+    "imageSrc": "path/to/tutor-bright-logo.png",
+    "startDate": "July 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Delivered tailored 1:1 tutoring sessions for students, focusing on academic growth and independent problem-solving.",
+      "Enhanced student performance and confidence by designing customized lesson plans aligned with their interests.",
+      "Built a supportive and engaging environment, leading to a 95% satisfaction rate among mentees.",
+      "Utilized creative teaching methods, integrating digital tools to make learning interactive and effective."
+    ]
+  },
+  {
+    "role": "Generative Artificial Intelligence Extern",
+    "organisation": "Cognizant Canada",
+    "imageSrc": "path/to/cognizant-logo.png",
+    "startDate": "May 2024",
+    "endDate": "August 2024",
+    "experiences": [
+      "Contributed to 3 generative AI prototypes, serving over 200 clients and improving team efficiency by 15%.",
+      "Implemented innovative AI solutions that reduced project turnaround time by 10%.",
+      "Collaborated with cross-functional teams, developing a business acumen to address real-world challenges.",
+      "Streamlined workflows using AI tools, enhancing data-driven decision-making and operational efficiency."
+    ]
+  }
+]
